@@ -114,14 +114,14 @@
 }
 
 .grid-19 {
-    grid-row: 19 / 23;
+    grid-row: 19 / 24;
     grid-column: 1 / 5;
     background-color: #444444;
 }
 
 .grid-20 {
     grid-column: 5 / 9;
-    grid-row: 19 / 25;
+    grid-row: 19 / 27;
     background-color: #fb2412;
 }
 
@@ -133,13 +133,13 @@
 
 .grid-22 {
     grid-column: 9 / 14;
-    grid-row: 22 / 25;
+    grid-row: 22 / 27;
     background-color: #192856;
 }
 
 .grid-23 {
     grid-column: 14 / 19;
-    grid-row: 22 / 25;
+    grid-row: 22 / 27;
     background-color: #c6b735;
 }
 
@@ -151,18 +151,18 @@
 
 .grid-25 {
     grid-column: 1 / 5;
-    grid-row: 23 / -1;
+    grid-row: 24 / -1;
     background-color: #8f938b;
 }
 
 .grid-26 {
     grid-column: 5 / 14;
-    grid-row: 25 / -1;
+    grid-row: 27 / -1;
     background-color: #050506;
 }
 
 .grid-27 {
     grid-column: 14 / 19;
-    grid-row: 25 / -1;
+    grid-row: 27 / -1;
     background-color: #444444;
 }
